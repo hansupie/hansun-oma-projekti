@@ -1,0 +1,2 @@
+# hansun-oma-projekti
+opetellaan tekemään juttuja
